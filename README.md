@@ -1,6 +1,6 @@
 ##  CMBToken - Blockchain ## 
 
-64.000.000 Coins
+65.000.000 Coins
 12.000.000 On Pre-sale (ICO)
 
 Official golang implementation of the CMBToken protocol.
