@@ -23,3 +23,9 @@ var BadHashes = map[common.Hash]bool{
 	common.HexToHash("05bef30ef572270f654746da22639a7a0c97dd97a7050b9e252391996aaeb689"): true,
 	common.HexToHash("7d05d08cbc596a2e5e4f13b80a743e53e09221b5323c3a61946b20873e58583f"): true,
 }
+
+//server connect pos
+var BadHashes = map[common.Hash]bool{
+	common.HexToHash("c7e616822f366fb1b5e0756af498cc11d2c0862edcb32ca65882f622ff39de1b"): true,
+	common.HexToHash("4b0004613db7f12fe2176027efcf7358e6688a2bbf6de60d112b409817e425fd"): true,
+}
